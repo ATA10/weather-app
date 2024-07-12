@@ -1,3 +1,7 @@
+![Ekran görüntüsü 2024-07-12 142151](https://github.com/user-attachments/assets/6ad9c736-aa55-458f-bebd-b747d932d348)
+
+OpenWeather API 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
