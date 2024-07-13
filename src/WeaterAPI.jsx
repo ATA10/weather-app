@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const apiKey = "7c0d9bf27e6312610f9e3d3d96c225b1"
+const apiKey = "API_KEY"
 
 //Burada temel URL belirliyoruz. Temel URL'ye göre istekleri yapacağız.
 const api = axios.create({
